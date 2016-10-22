@@ -1,0 +1,19 @@
+{   "name": "A03",
+    "version": "0.0.1",
+    "description": "A03",
+    "main": "server.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "socket.io": "latest",
+        "ejs": "latest"
+    },
+    "author": "Raja",
+    "homepage": "https://bitbucket.org/raja/A03",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/raja/A03"
+    },
+     "license": "Apache-2.0"
+}
