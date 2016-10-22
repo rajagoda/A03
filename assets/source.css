@@ -1,0 +1,31 @@
+body{
+    background-image:url("http://www.smiletvgroup.com/wp-content/uploads/2012/11/SmileMinute-Background2.jpg");
+} 
+    /* Remove the navbar's default margin-bottom and rounded borders */
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    footer {
+      background-color: black;
+color:white;
+      padding: 15px;
+    }
+    
+  .carousel-inner img {
+      width: 100%;
+      margin: auto;
+      min-height:200px;
+  }
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+  }
+#head{
+text-align:center;
+    font-family:Elephant;
+}
+tr td{
+    padding: 5px;
+}
